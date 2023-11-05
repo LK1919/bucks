@@ -1,0 +1,13 @@
+body{
+    display: block;
+    margin: auto;
+    padding: 250px;
+}
+img{
+  display: block;
+  margin: auto;
+}
+h1{
+  text-align: center;
+  padding-bottom: 20px;
+}
